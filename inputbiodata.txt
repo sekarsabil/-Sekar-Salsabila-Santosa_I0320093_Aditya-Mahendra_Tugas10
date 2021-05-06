@@ -1,0 +1,13 @@
+Nama : Salsa
+NIM : I0320093
+Usia : 19
+Asal : Bandung
+Prodi : Teknik Sipil
+Angkatan : 2020
+
+Nama : Ryan
+NIM : I0093221
+Usia : 22
+Asal : Malang
+Prodi : PGSD
+Angkatan : 2017
